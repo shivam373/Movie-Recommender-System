@@ -43,22 +43,11 @@ Movie-Recommender-System/
    ```
 
 ## 📊 Usage
-- Run the script:
-  ```bash
-  python src/recommender.py
-  ```
-- If using Flask, start the server:
+- using Flask, start the server:
   ```bash
   python app.py
   ```
 - Access the web interface at `http://localhost:5000`
-
-## 📈 Example
-```python
-from src.recommender import get_recommendations
-recommendations = get_recommendations("Inception")
-print(recommendations)
-```
 
 ## 📌 Future Enhancements
 - Add **collaborative filtering** for hybrid recommendations
