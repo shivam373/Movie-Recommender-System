@@ -3,10 +3,6 @@ import pickle
 import pandas as pd
 import requests
 
-def fetch_poster(movie_id):
-    requests.get("")
-
-
 similarity = pickle.load(open("similarity.pkl" , "rb"))
 def recommend(movie):
     indx = movies[movies["title"] == movie].index[0]
