@@ -74,7 +74,7 @@ This project is licensed under the **MIT License**.
 ## 📬 Contact
 For any inquiries, feel free to reach out:
 - **GitHub**: [shivam373](https://github.com/shivam373)
-- **Email**: [your-email@example.com] (Replace with actual email)
+- **Email**: [mkpskp420@gmail.com] (Replace with actual email)
 
 ---
 ⭐ If you like this project, don't forget to **star** the repo!
