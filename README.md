@@ -7,13 +7,13 @@ The **Movie Recommender System** is a content-based recommendation engine that s
 - **Content-Based Filtering** using movie overviews, genres, and other metadata
 - **TF-IDF Vectorization** for text processing
 - **Cosine Similarity** to measure movie relevance
-- **Interactive User Interface** (if applicable)
+- **Interactive User Interface** 
 
 ## 🛠️ Tech Stack
 - **Python** 🐍
 - **Pandas & NumPy** for data handling
 - **Scikit-Learn** for NLP and similarity measures
-- **Flask** (if deployed as a web app)
+- **Flask** for webapp
 
 ## 📂 Project Structure
 ```
